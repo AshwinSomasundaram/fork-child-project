@@ -1,0 +1,39 @@
+Input data is website :www.utdallas.edu: with :5: packets and :3: children
+Processing results for www.utdallas.edu
+--- www.utdallas.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4001ms
+rtt min/avg/max/mdev = 0.773/0.820/0.845/0.044 ms
+--- www.utdallas.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4002ms
+rtt min/avg/max/mdev = 0.750/0.824/0.869/0.044 ms
+--- www.utdallas.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4003ms
+rtt min/avg/max/mdev = 0.768/0.809/0.849/0.044 ms
+Input data is website :www.utdallas.edu: with :10: packets and :5: children
+Processing results for www.utdallas.edu
+--- www.utdallas.edu ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9003ms
+rtt min/avg/max/mdev = 0.760/0.812/0.876/0.044 ms
+--- www.utdallas.edu ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9003ms
+rtt min/avg/max/mdev = 0.746/0.803/0.849/0.035 ms
+--- www.utdallas.edu ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9003ms
+rtt min/avg/max/mdev = 0.759/0.814/0.874/0.035 ms
+--- www.utdallas.edu ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9003ms
+rtt min/avg/max/mdev = 0.750/0.808/0.856/0.036 ms
+--- www.utdallas.edu ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9004ms
+rtt min/avg/max/mdev = 0.713/0.806/0.896/0.056 ms
+Input data is website :www.google.com: with :15: packets and :3: children
+Processing results for www.google.com
+--- www.google.com ping statistics ---
+15 packets transmitted, 15 received, 0% packet loss, time 14015ms
+rtt min/avg/max/mdev = 1.912/1.949/2.008/0.054 ms
+--- www.google.com ping statistics ---
+15 packets transmitted, 15 received, 0% packet loss, time 14017ms
+rtt min/avg/max/mdev = 1.890/1.954/1.999/0.062 ms
+--- www.google.com ping statistics ---
+15 packets transmitted, 15 received, 0% packet loss, time 14017ms
+rtt min/avg/max/mdev = 1.921/1.951/2.013/0.046 ms

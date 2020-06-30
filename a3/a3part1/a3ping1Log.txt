@@ -1,0 +1,12 @@
+Ready to exec()...
+ ** program starts ** 
+--- www.utdallas.edu ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4001ms
+rtt min/avg/max/mdev = 0.772/0.797/0.830/0.040 ms
+--- www.utdallas.edu ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9004ms
+rtt min/avg/max/mdev = 0.778/0.808/0.836/0.036 ms
+--- www.google.com ping statistics ---
+15 packets transmitted, 15 received, 0% packet loss, time 14015ms
+rtt min/avg/max/mdev = 1.936/1.978/2.046/0.052 ms
+ ** end of program run ** 
